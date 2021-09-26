@@ -1,0 +1,7 @@
+.footer{
+    padding-top: 70px;
+    padding: 60px 50px 12px 50px;
+    background: rgb(50, 74, 211);
+    color: white;
+    clip-path: polygon(100% 100%, 100% 70%, 20% 0%, 0% 50%, 0% 100%);
+}

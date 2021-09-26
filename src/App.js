@@ -1,25 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import Descript from './component/Descript/Descript';
+import Districts from './component/Districts/Districts';
+import Footer from './component/Footer/Footer';
+import Header from './component/Header/Header';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* this is header section  */}
+      <Header></Header>
+
+      {/* this is description section  */}
+      <Descript></Descript>
+
+      {/* this is all districts section  */}
+      <Districts></Districts>
+
+      {/* this is footer section  */}
+      <Footer></Footer>
     </div>
   );
 }
 
 export default App;
+

@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Cox’s Bazar",
+        "code":"001",
+        "famous":"Sea beach",
+        "population":"182241",
+        "area":"3430",
+        "devision":"Chittagong",
+        "img":"https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTZdUB3XV5NN1-OaWJTefgS8Fsi_oosNAx4uBE_bLp0gK3FF-Su9e4-lK5mlgayBo2jTAvyhKEx65e8roZym_HvLw"
+    },
+    {
+        "name":"Lalbagh Fort",
+        "code":"002",
+        "famous":"Haji Biriyani",
+        "population":"3605083",
+        "area":"3414",
+        "devision":"Dhaka",
+        "img":"https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSxeqozWhayFZpozotBcQ2dHTGTTTtp8Q51dFafOX6aLxY_iAT0iz1U2DxHI8-4yg6vVcJ9AHpDBH2vaLaQcnEKPg"
+    },
+    {
+        "name":"Sundarban",
+        "code":"003",
+        "famous":"Tiger",
+        "population":"987644",
+        "area":"1405",
+        "devision":"Khulna",
+        "img":"https://www.utm.my/group/wp-content/uploads/sites/75/2011/04/sundarban_big.jpg"
+    },
+    {
+        "name":"Sreemangal",
+        "code":"004",
+        "famous":"Tea Garden",
+        "population":"300957",
+        "area":"3452",
+        "devision":"Sylet",
+        "img":"https://mediaim.expedia.com/localexpert/2509712/49865c2b-be46-4958-9c10-04f55b935cc1.jpg?impolicy=resizecrop&rw=1005&rh=565"
+    },
+    {
+        "name":"Nilgiri",
+        "code":"005",
+        "famous":"Nature",
+        "population":"388335",
+        "area":"4479",
+        "devision":"Bandarban",
+        "img":"http://www.atab.org.bd/Tourist_Destination_Images/Nilgiri_Resort.jpg"
+    },
+    {
+        "name":"Saint martin",
+        "code":"006",
+        "famous":"Beach",
+        "population":"1000476 ",
+        "area":"3959 ",
+        "devision":"Chittogong",
+        "img":"https://images.unsplash.com/photo-1520520731457-9283dd14aa66?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name":"Sonargaon",
+        "code":"007",
+        "famous":"Museum",
+        "population":"700616",
+        "area":"5283",
+        "devision":"Moymoshing",
+        "img":"https://images.unsplash.com/photo-1544213456-bc37cb97df74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+        "name":"Shajek",
+        "code":"008",
+        "famous":"Hill an Nature",
+        "population":"200416 ",
+        "area":"1704",
+        "devision":"Chitagong",
+        "img":"https://thefinancialexpress.com.bd/uploads/1623685867.jpg"
+    },
+    {
+        "name":"Bisanakandi",
+        "code":"009",
+        "famous":"Hill and nature",
+        "population":"100707",
+        "area":"1900 ",
+        "devision":"Chittagong",
+        "img":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/74/2e/1a.jpg"
+    },
+    {
+        "name":"Dhaka",
+        "code":"010",
+        "famous":"National Memorial",
+        "population":"1200004",
+        "area":"1464 ",
+        "devision":"Dhaka",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Jatiyo_Sriti_Shoudho_%28%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF_%E0%A6%B8%E0%A7%8C%E0%A6%A7%29.jpg"
+    }
+]

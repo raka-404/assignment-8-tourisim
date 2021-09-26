@@ -1,0 +1,12 @@
+/* districts css  */
+
+.districts{
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+    padding: 5px 50px;
+}
+.districts_container{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+
+}

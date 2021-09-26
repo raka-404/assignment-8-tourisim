@@ -1,0 +1,51 @@
+/* every single card css  */
+.singleCard{
+    width: 330px;
+    margin: 5px;
+    border: 1px solid grey;
+}
+
+
+.singleCard:hover .cartBody{
+    
+    color:rgb(42, 113, 245);
+    background: white;
+}
+
+/* img container  */
+.img_container{
+    height: 200px;
+    width: 100%;
+}
+.img_container img{
+    height: 100%;
+    width: 100%;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 100%);
+    transition: 1s;
+}
+
+/* card body  */
+.cartBody{
+    padding: 7px;
+    background: #4177bd;
+    clip-path: polygon(100% 0%, 100% 100%, 0% 100%, 0% 10%);
+    height: 200px;
+    transition: 1s;
+    color: rgb(255, 255, 255);
+}
+
+/* card button  */
+.regularBTN{
+    padding: 7px;
+    font-size: 18px;
+    border: 1px solid transparent;
+    margin: 3px;
+    box-shadow: 5px 5px 7px rgb(23, 57, 168);
+    color:rgb(23, 57, 168);
+    margin-top: 7px;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+/* single div for single selected name  */
+
+.selectedDiv{
+    background: rgb(50, 74, 211);
+    color: rgb(255, 255, 255);
+    margin: 3px;
+    clip-path: polygon(99% 1%, 99% 34%, 95% 35%, 93% 37%, 90% 39%, 88% 41%, 87% 44%, 87% 47%, 87% 50%, 88% 52%, 89% 53%, 92% 56%, 94% 58%, 96% 59%, 98% 61%, 99% 99%, 0% 100%, 0% 0%);
+    padding: 5px;
+}
+
+h3,h4,h5,h6{
+    margin: 0;
+}
