@@ -43,6 +43,7 @@
     box-shadow: 5px 5px 7px rgb(23, 57, 168);
     color:rgb(23, 57, 168);
     margin-top: 7px;
+    cursor: pointer;
 }
 .info{
     display: flex;
